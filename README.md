@@ -33,11 +33,17 @@ This Messenger App is built using React Native and allows users to manage messag
 
 MessengerFixedApp/
 ├── App.js                         # Main entry point
+
 ├── screens/
+
 │   ├── HomeScreen.js             # Directory management
+
 │   ├── MessageListScreen.js      # View/edit messages
+
 │   └── MessageFormScreen.js      # Add/edit individual message
+
 ├── package.json                  # Project dependencies
+
 └── README.pdf                    # Documentation
 
 # 5. Screenshots (to be attached)
